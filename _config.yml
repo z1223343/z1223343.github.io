@@ -1,0 +1,32 @@
+url: https://z1223343.github.io
+# baseurl: /xxx/
+
+# Site settings
+title: Yaozhong Zhang
+email: zhangyaozhong66@gmail.com
+description: "Yaozhong's personal website (this is a description for google search results)."
+
+
+# Team names, titles and social links
+people: 
+- name: Yaozhong (Yao) Zhang
+  pic: 1
+  position: fgdfg
+  social:
+    - title: Linkedin
+      url: #
+    - title: Github
+      url: #
+    - title: Youtube
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
