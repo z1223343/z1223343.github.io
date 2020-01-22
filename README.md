@@ -1,7 +1,7 @@
 My Personal Homepage
 ====================
 
-**THe website is [here](www.yaozhongzhang.com).**
+**The website is [here](www.yaozhongzhang.com).**
 
 It can be accessd by any of the three URLs below:
 * www.yaozhongzhang.com
