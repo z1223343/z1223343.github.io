@@ -1,30 +1,15 @@
 My Personal Homepage
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+THe website is [here](www.yaozhongzhang.com).
 
-# How to use
+It can be accessd by any of the three URLs below:
+* www.yaozhongzhang.com
+* yaozhongzhang.com
+* z1223343.github.io
 
-###Portfolio 
+The website is powered by [Github Page](https://pages.github.com/) and developed by [Jekyll](https://jekyllrb.com/).
+It is based on [Agent skyell theme](https://github.com/y7kim/agency-jekyll-theme)
 
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+**The website is still under development.**
+**More content to be published.**
